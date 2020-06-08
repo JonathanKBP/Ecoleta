@@ -10,7 +10,7 @@ Ecoleta é um projeto desenvolvido na semana **Next Level Week (1.0)** da **[Roc
 <p align="center">
   <p>Mobile<p>
   <img width="49.5%" src="./prints/img-mobile.jpg" alt="Ecoleta mobile home">
-  <img width="49.5%" src="./docs/img-mobile2.jpg" alt="Ecoleta mobile mapa">  
+  <img width="49.5%" src="./prints/img-mobile2.jpg" alt="Ecoleta mobile mapa">  
 <p>
 
 ## **Objetivo**
